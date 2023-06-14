@@ -7,8 +7,6 @@
 
 - 📚 I'm currently learning **software and game development**
 
-- ✨ I'm mostly active on discord, so feel free to message me [[Linkon#7868](https://discord.com/users/871617315945472030)]([Linkon#7868](https://discord.com/users/871617315945472030))
-
 - 📫 Reach me here **linkon447@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
