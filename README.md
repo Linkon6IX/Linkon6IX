@@ -1,6 +1,5 @@
-### Hello there 👋, I am Linkon. 
-### A 15 year old high-school student who has a great interest for technology and the Internet.
-### I mostly use 🐍 Python for programmings things.
+## Hello there 👋, I am Linkon. \n A 15 year old high-school student who has a great interest for technology and the Internet. \n I mostly use 🐍 Python for programmings things.
+
 
 
 - 💼 **CEO** at [Rapidflow Agency](https://rapidflowagency.com)
