@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Linkon</h1>
 <h3 align="center">A 15 year old high-school student who has a great interest for technology and the Internet. I mostly use 🐍 Python for programming things.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linkon6ix" alt="linkon6ix" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=linkon6ix&label=Profile%20views&color=0e75b6&style=flat" alt="linkon6ix" /> </p>
 
 - 💼 **CEO** and **Founder** of [Rapidflow Agency](https://rapidflowagency.com)
 
