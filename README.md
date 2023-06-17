@@ -26,9 +26,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/Linkon6IX?tab=repositories">
-<img src="https://streak-stats.demolab.com?user=linkon6ix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <\a>
+  <a href="https://github.com/Linkon6IX?tab=repositories"><img src="https://streak-stats.demolab.com?user=linkon6ix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/><\a>
 </div>
 
 ###
